@@ -37,3 +37,4 @@ Trash/
 Trash*/
 **/__pycache__
 !Environment/Reticulate_env_py.R
+!Environment/Required_R_packages.csv
